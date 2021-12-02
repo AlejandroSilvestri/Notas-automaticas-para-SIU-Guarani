@@ -1,8 +1,8 @@
 # Pegar notas en SIU Guaraní
 
-Éste es el código de una extensión de Chrome, originalmente desarrollada para la Universidad Austral, pero que se puede adaptar a otras instituciones.
+Éste es el código de una __extensión de Chrome__, originalmente desarrollada para la Universidad Austral, pero que se puede adaptar a otras instituciones.
 
-La extensión actúa en páginas de profesores del SIU, ejecutando un _content script_ que agrega dos botones: Copiar alumnos y Pegar notas.
+La extensión actúa en __páginas de profesores__ del SIU, ejecutando un _content script_ que agrega dos botones: Copiar alumnos y Pegar notas.
 
 El archivo selectores.json tiene las url que activan el código y los selectores de elementos necesarios para su operación.  Se pueden cambiar para adaptar a cada institución.
 
